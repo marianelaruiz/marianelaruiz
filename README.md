@@ -4,11 +4,11 @@ Atualmente estou morando em Valinhos, São Paulo, Brasil
 
 **Habilidade em:**
 
-**Python** 🐍
-**SQL** ⚙️
-**Looker Studio | Power BI** 📊
-**Estatística** 📈
-**Aprendizado de máquina** 🧠
+- **Python** 🐍
+- **SQL** ⚙️
+- **Looker Studio | Power BI** 📊
+- **Estatística** 📈
+- **Aprendizado de máquina** 🧠
 
 **BIO**
 
