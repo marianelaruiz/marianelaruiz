@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Atualmente estou morando em Valinhos, São Paulo, Brasil. Sou Venezuelana.
+Atualmente estou morando em Valinhos, São Paulo, Brasil. 
 
 **Habilidade em:**
 
