@@ -7,8 +7,8 @@ Atualmente estou morando em Valinhos, São Paulo, Brasil.
 - **Python** 🐍
 - **SQL** ⚙️
 - **Looker Studio | Power BI** 📊
-- **Estatística** 📈
-- **Aprendizado de máquina** 🧠
+<!-- - **Estatística** 📈 -->
+<!-- - **Aprendizado de máquina** 🧠 -->
 
 **BIO**
 
