@@ -20,6 +20,6 @@ Atualmente estou morando em Valinhos, São Paulo, Brasil.
 ## Portfólio:
 * [**Análise das Músicas mais Ouvidas em 2023 no Spotify**](https://github.com/marianelaruiz/Hipotese-Spotify)
 * [**Análise e Classificação do risco de crédito dos clientes de um banco**](https://github.com/marianelaruiz/Analise-de-Risco-de-Credito)
-* * [**Análise para uma loja especializada em produtos alimentícios aplicando a sementaçao RFM**](https://github.com/marianelaruiz/SegementacaoRFM-mercado)
+* [**Análise para uma loja especializada em produtos alimentícios aplicando a sementaçao RFM**](https://github.com/marianelaruiz/SegementacaoRFM-mercado)
 
 <img src="hello.jpg" alt="Alt text" width="800" height="500">
