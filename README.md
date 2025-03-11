@@ -1,7 +1,5 @@
 ## Olá 👋
 
-Atualmente estou morando em Curitiba, Brasil. 
-
 **Habilidade em:**
 
 - **Python** 🐍
