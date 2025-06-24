@@ -1,19 +1,19 @@
-## Olá 👋
+## Hello 👋
 
-**Habilidade em:**
+**I'm a data analyst with skills in:**
 
 - **Python** 🐍
 - **SQL** ⚙️
 - **Looker Studio | Power BI** 📊
-- **Estatística** 📈
+- **Statistics** 📈
 <!-- - **Aprendizado de máquina** 🧠 -->
 
-**BIO**
+**About Me**
 
-- 👀 Tenho interesse em Python e aprendizado de máquina.
-- 🌱 Estou aprendendo sobre a linguagem R
-- 🤝 Estou procurando colaborar em projetos de dados Python,
-- 📫 Entre em contato comigo em: **marianelaruiz.br@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/marianelaruizd/)
+- 👀 Passionate about Python and machine learning.
+- 🌱 Currently learning about AWS and cloud computing.
+- 🤝 Open to collaborating on data-driven projects using Python.
+- 📫 You can reach me at: **marianelaruiz.br@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/marianelaruizd/)
 
 ## Portfólio:
 * [**Análise das Músicas mais Ouvidas em 2023 no Spotify**](https://github.com/marianelaruiz/Hipotese-Spotify)
