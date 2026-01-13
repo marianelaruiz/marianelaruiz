@@ -1,12 +1,18 @@
 ## Hello 👋
 
-**I'm a data analyst with skills in:**
-
-- **Python** 🐍
-- **SQL** ⚙️
-- **Looker Studio | Power BI** 📊
-- **Statistics** 📈
+<!-- - **Looker Studio | Power BI** 📊  -->
+<!-- - **Statistics** 📈 -->
 <!-- - **Aprendizado de máquina** 🧠 -->
+
+**I’m a Junior Data Engineer with experience in data ingestion and processing.**
+
+Skills:
+Python 🐍
+SQL ⚙️
+Web Scraping & Crawlers 🕷️
+ETL / Data Pipelines 🔄
+AWS (S3, DynamoDB) ☁️
+Spark / Airflow (foundations) ⚡
 
 **About Me**
 
