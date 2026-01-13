@@ -6,13 +6,13 @@
 
 **I’m a Junior Data Engineer with experience in data ingestion and processing.**
 
-Skills:
-** - Python 🐍**
-**SQL ⚙️**
-**Web Scraping & Crawlers 🕷️**
-**ETL / Data Pipelines 🔄**
-**AWS (S3, DynamoDB) ☁️**
-**Spark / Airflow (foundations) ⚡**
+**Skills:** 
+- Python 🐍
+- SQL ⚙️
+- Web Scraping & Crawlers 🕷️
+- ETL / Data Pipelines 🔄
+- AWS (S3, DynamoDB) ☁️
+- Spark / Airflow (foundations) ⚡
 
 **About Me**
 
